@@ -1,0 +1,13 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+name: TiInAppPurchase
+moduleid: jp.masuidrive.ti.inapppurcahse
+version: 0.1
+description: In App Purcahse module
+author: Yuichiro MASUI (masuidrive)
+license: MIT
+copyright: Copyright (c) 2010 by Yuichiro MASUI (masuidrive)
+platform: iphone
+minsdk: 1.4.0
